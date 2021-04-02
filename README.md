@@ -15,6 +15,7 @@ How to use this tool:
  * Red means you need to finish this task before the hour ends
  * Green means you have time to work on those tasks
 * Type in to the form boxes and press the save button on the right to record each to-do
+ * For this version, any button will save any text in any of the boxes
 
 The repo can be found here: 
 [TPR_GitHub](https://github.com/rutherford87/Daily-To-Do-List)
